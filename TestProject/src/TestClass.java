@@ -1,8 +1,10 @@
 
 public class TestClass {
-//Første edit
+//FÃ¸rste edit
 	// mere tekst
 	// swagkommentar
 	// andet edit
 	int swag = 0;
+	// edit fra gitHub
+	
 }
