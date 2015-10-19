@@ -6,5 +6,6 @@ public class TestClass {
 	// andet edit
 	int swag = 0;
 	// edit fra gitHub
+	//Spa github
 	
 }
