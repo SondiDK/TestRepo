@@ -4,4 +4,5 @@ public class TestClass {
 	// mere tekst
 	// swagkommentar
 	// andet edit
+	int swag = 0;
 }
